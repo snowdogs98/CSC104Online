@@ -1,0 +1,30 @@
+body {
+  background-image: url('./images/bg.png');
+  margin: 0;
+  padding: 0;
+  font-family: Avenir;
+}
+
+header {
+  background-color: blueviolet;
+  color:white;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+div {
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  color: rgb(186, 167, 255);
+}
+
+li {
+  color: rgb(255, 255, 255);
+}
+
+p {
+  color: rgb(255, 255, 255);
+}
