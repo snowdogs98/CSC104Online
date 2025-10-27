@@ -1,0 +1,56 @@
+body {
+  background-image: url('./images/bg.png');
+  margin: 0;
+  padding: 0;
+  font-family: Avenir;
+}
+header {
+    padding: 30px;
+    background-color: rgb(127, 0, 177);
+    display: flex;
+    justify-content: center;
+
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+h1 {
+  color: rgb(255, 225, 246);
+}
+div {
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  color: rgb(157, 139, 255);
+}
+
+ul {
+  color: rgb(255, 255, 255);
+}
+
+p {
+  color: rgb(255, 255, 255);
+}
+
+.container{
+  width: 500px;
+  height: 281px;
+  margin: 0 auto;
+  display: block;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(144, 117, 251);
+}
